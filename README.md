@@ -1,5 +1,6 @@
 # ADVENT_OF_CODE_2025
 //DAY 1 - PROBLEMA 1
+
 #include <iostream>
 #include <string>
 using namespace std;
