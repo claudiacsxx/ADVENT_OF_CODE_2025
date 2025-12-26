@@ -1,6 +1,6 @@
 # ADVENT_OF_CODE_2025
 DÍAS ESCOGIDOS
-2, 3, 4, 5, 7, 11
+3, 4, 5, 7, 11
 AUTOEVALUACIÓN
   ELECCIÓN DEL PROBLEMA
     Consideramos que todos los problemas que hemos elegido han sido resueltos con la técnica adecuada, y todos son buenos ejemplos del uso de cada técnica para facilitar la resolución de una cuestión compleja. 
